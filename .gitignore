@@ -1,0 +1,29 @@
+# Template : shell
+# Description : shell scriting compatihle with v110 and minimum
+# Maintainer : Bruno DELNOZ
+# Last update : 2025-10-25
+# Compatible with : shell command
+logs/
+output/
+infos/
+result/
+results/
+backup/
+*.log
+*.zip
+*.tar.gz
+*.rar
+# PROJECT SPECIFIC
+uploads
+*.pid
+__pycache__
+*.db
+creation_log
+*-swp
+*.tmp
+*.bak
+# ========================================
+# Template: shell
+# Added: 2026-02-04 22:19:59
+certs/
+secrets/
